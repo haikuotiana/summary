@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,a as e,e as c}from"./app.0ece2a1e.js";const o={},s=e("h1",{id:"keep-alive",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#keep-alive","aria-hidden":"true"},"#"),c(" keep-alive")],-1),i=[s];function _(l,n){return t(),r("div",null,i)}var h=a(o,[["render",_],["__file","KeepAlive.html.vue"]]);export{h as default};
