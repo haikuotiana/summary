@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a as o}from"./app.fc55b8db.js";const _={},n=o("p",null,"\u6B63\u5728\u52AA\u529B\u5EFA\u8BBE\u4E2D...",-1),s=[n];function a(r,l){return t(),c("div",null,s)}var d=e(_,[["render",a],["__file","Action.html.vue"]]);export{d as default};

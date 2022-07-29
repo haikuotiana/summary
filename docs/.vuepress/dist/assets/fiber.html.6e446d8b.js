@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-469522f6","path":"/react/fiber.html","title":"fiber","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"react/fiber.md"}');export{e as data};

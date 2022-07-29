@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-47635413","path":"/vue/KeepAlive.html","title":"keep-alive","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"vue/KeepAlive.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as r,a as e,e as s}from"./app.fc55b8db.js";const c={},n=e("h1",{id:"getter-state-s",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#getter-state-s","aria-hidden":"true"},"#"),s(" getter=state s")],-1),o=[n];function _(d,i){return a(),r("div",null,o)}var l=t(c,[["render",_],["__file","getting-started.html.vue"]]);export{l as default};
